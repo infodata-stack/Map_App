@@ -1,0 +1,10 @@
+{
+  "name": "Smart Route Planner - Multi-Stop & Distance Optimizer",
+  "description": "Smart Route Planner for Android & Web. Compares multi-location distances from GPS, finds nearest stops, optimizes 3 to 50+ stop routes, and opens Google Maps navigation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
